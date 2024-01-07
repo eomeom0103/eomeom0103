@@ -13,5 +13,5 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats-eomeom0103.vercel.app/api?username=eomeom0103)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomeom0103&show_icons=true&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eomeom0103&layout=compact)
