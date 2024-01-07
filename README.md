@@ -9,9 +9,13 @@
 ### ✏️ PLATFORM & LANGUAGE
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-
+<img src="https://img.shields.io/badge/matlab-FC6D26?style=flat&logo=C&logoColor=white">
 
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomeom0103&show_icons=true&theme=radical)
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=eomeom0103&layout=compact)
+
+<br>
+
+<a href="https://github.com/eomeom0103"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eomeom0103&layout=compact&theme=nord&hide_border=true" /></a> 
